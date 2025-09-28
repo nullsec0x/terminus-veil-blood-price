@@ -1,6 +1,6 @@
 # Terminus Veil: Blood Price - A Python Roguelike by Nullsec0x
 
-![banner](./assets/banner.png)
+![banner](./assets/cover.png)
 
 A turn-based roguelike game built with Python and Textualize, featuring procedural dungeon generation, combat, inventory management, progressive difficulty, and beautiful ASCII art visuals.  
 This enhanced version introduces **character classes, magic systems, expanded content, quests, and deeper gameplay mechanics with a unique Blood Price system that demands strategic sacrifices.**
